@@ -4,7 +4,7 @@ The Multiview Visualization system is an innovative tool designed for deep analy
 <br><br>
 Key Features:<br>
 <br>
-Advanced Visualization: Offers a range of chart types to cater to different analytical needs, enhancing the data presentation and storytelling capabilities.<br>
+Advanced Visualization: Offers a range of chart types to cater to different analytical needs, enhancing the data presentation and storytelling capabilities.<br><br>
 
 Interactive Exploration: Incorporates interactive elements like subset selection, brushing, and linking, enabling users to dive deep into specific aspects of the dataset.<br>
 
