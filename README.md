@@ -2,7 +2,7 @@
 <br>
 The Multiview Visualization system is an innovative tool designed for deep analysis and interactive exploration of a large dataset, specifically tailored to a collection of 1000 movies. Built with Python and Altair, this project introduces a highly interactive environment where users can engage with data through a variety of visualization types including donut charts, bar charts, line charts, and area charts. The system emphasizes user interaction, allowing for advanced data exploration techniques such as subset selection, brushing, and linking, thereby providing a comprehensive understanding of movie trends and insights.
 <br><br>
-<b>Key Features:</b>b<br>
+<b>Key Features:</b><br>
 <br>
 <b>Advanced Visualization:</b> Offers a range of chart types to cater to different analytical needs, enhancing the data presentation and storytelling capabilities.<br><br>
 
